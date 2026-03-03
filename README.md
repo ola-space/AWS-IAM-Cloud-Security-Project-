@@ -99,3 +99,9 @@ This ensures:
 - Activity monitoring and auditing
 - Resource lifecycle management
 - Cloud security governance
+
+---
+## Author
+**Olanipekun Babatunde**  
+Cybersecurity Analyst
+
